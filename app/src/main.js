@@ -3,6 +3,10 @@ import App from './App.vue'
 import router from './router'
 import store from './store'
 
+import VueToasts from 'vue-toast-notification'
+Vue.use(VueToasts)
+
+
 Vue.config.productionTip = false
 
 new Vue({
