@@ -5,6 +5,8 @@ A template repository to quickly start a new project with a VueJS frontend and P
    ![VueJS](https://img.shields.io/badge/Frontend-VueJS-brightgreen)
    ![PHP](https://img.shields.io/badge/Backend-PHP-blue)
    ![CodeIgniter v3](https://img.shields.io/badge/Backend-CodeIgniter%20v3-orange)
+   
+![VueJS Image](https://www.mindinventory.com/blog/wp-content/uploads/2018/07/vuejs1200.png)
 
 ## What's included
 ### VueJS
